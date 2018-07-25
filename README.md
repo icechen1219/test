@@ -1,1 +1,2 @@
-test for git command\nand init repo from bash
+test for git command
+and init repo from bash
