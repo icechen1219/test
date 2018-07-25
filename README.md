@@ -1,2 +1,3 @@
 test for git command
-and init repo from bash
+
+''and init repo from bash
